@@ -17,14 +17,9 @@ A modern, responsive, and visually aesthetic Music Player UI featuring:
 - 🎧 Pure HTML, CSS & Vanilla JavaScript
 
 # 📸 Preview
-<img width="554" height="792" alt="Screenshot 2025-12-29 204109" src="https://github.com/user-attachments/assets/4c6de3ea-3bc4-4c62-868e-27db8b32ce32" />
-<img width="627" height="819" alt="Screenshot 2025-12-29 204123" src="https://github.com/user-attachments/assets/2435d359-bfbf-4876-9838-6f135df4e9b3" />
-<img width="556" height="802" alt="Screenshot 2025-12-29 204144" src="https://github.com/user-attachments/assets/d7e4c907-c479-4fba-9874-d843783bbfcb" />
-
+<img width="1333" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/3f031760-aa0f-4129-bbda-270a341a2451" />
 
 https://github.com/user-attachments/assets/c5f0c6e6-5a5f-4b6a-aef4-6fd87ce3c099
-
-
 
 # 🚀 Live Demo
 Click here to here to view the live demo --->https://riyajayaswal.github.io/Music-Player/
